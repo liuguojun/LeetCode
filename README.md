@@ -1,2 +1,2 @@
 # LeetCode
-for practice
+practice makes perfect
